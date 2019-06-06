@@ -1,0 +1,22 @@
+{
+  "name": "@blockware/blockctl-command",
+  "version": "0.0.1",
+  "description": "SDK for making commands for the blockware CLI utility",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blockwarecom/blockctl-command.git"
+  },
+  "keywords": [
+    "blockware"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blockwarecom/blockctl-command/issues"
+  },
+  "homepage": "https://github.com/blockwarecom/blockctl-command#readme",
+  "dependencies": {
+    "commander": "2.20.0"
+  }
+}
