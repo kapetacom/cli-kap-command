@@ -10,7 +10,7 @@
   "keywords": [
     "blockware"
   ],
-  "author": "",
+  "author": "Henrik Hofmeister <hh@blockware.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/blockwarecom/blockctl-command/issues"
