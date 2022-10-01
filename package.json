@@ -1,6 +1,6 @@
 {
   "name": "@blockware/blockctl-command",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "SDK for making commands for the blockware CLI utility",
   "main": "index.js",
   "repository": {
