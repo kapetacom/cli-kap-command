@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/blockwarecom/blockctl-command#readme",
   "dependencies": {
-    "commander": "2.20.0"
+    "commander": "9.4.1"
   }
 }
