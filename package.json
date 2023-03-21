@@ -1,16 +1,16 @@
 {
-  "name": "@blockware/blockctl-command",
-  "version": "0.0.7",
-  "description": "SDK for making commands for the blockware CLI utility",
+  "name": "@kapeta/blockctl-command",
+  "version": "0.0.8",
+  "description": "SDK for making commands for the kapeta CLI utility",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/blockwarecom/blockctl-command.git"
   },
   "keywords": [
-    "blockware"
+    "kapeta"
   ],
-  "author": "Henrik Hofmeister <hh@blockware.com>",
+  "author": "Henrik Hofmeister <hh@kapeta.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/blockwarecom/blockctl-command/issues"
