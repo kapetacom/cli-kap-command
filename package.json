@@ -1,6 +1,6 @@
 {
   "name": "@kapeta/blockctl-command",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "SDK for making commands for the kapeta CLI utility",
   "main": "index.js",
   "repository": {
