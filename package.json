@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blockwarecom/blockctl-command.git"
+    "url": "git+https://github.com/kapetacom/blockctl-command.git"
   },
   "keywords": [
     "kapeta"
@@ -13,9 +13,9 @@
   "author": "Henrik Hofmeister <hh@kapeta.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/blockwarecom/blockctl-command/issues"
+    "url": "https://github.com/kapetacom/blockctl-command/issues"
   },
-  "homepage": "https://github.com/blockwarecom/blockctl-command#readme",
+  "homepage": "https://github.com/kapetacom/blockctl-command#readme",
   "dependencies": {
     "commander": "9.4.1"
   }
