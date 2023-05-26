@@ -1,5 +1,5 @@
 const {Command} = require('commander');
-const PARENT_NAME = process.env.KAPETA_PARENT_CLI || 'blockctl';
+const PARENT_NAME = process.env.KAPETA_PARENT_CLI || 'kap';
 
 class KapetaCommand {
     constructor(name, version) {

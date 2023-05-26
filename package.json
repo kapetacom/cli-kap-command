@@ -1,11 +1,11 @@
 {
-  "name": "@kapeta/blockctl-command",
+  "name": "@kapeta/kap-command",
   "version": "0.0.9",
   "description": "SDK for making commands for the kapeta CLI utility",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kapetacom/blockctl-command.git"
+    "url": "git+https://github.com/kapetacom/kap-command.git"
   },
   "keywords": [
     "kapeta"
@@ -13,9 +13,9 @@
   "author": "Henrik Hofmeister <hh@kapeta.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kapetacom/blockctl-command/issues"
+    "url": "https://github.com/kapetacom/kap-command/issues"
   },
-  "homepage": "https://github.com/kapetacom/blockctl-command#readme",
+  "homepage": "https://github.com/kapetacom/kap-command#readme",
   "dependencies": {
     "commander": "9.4.1"
   }

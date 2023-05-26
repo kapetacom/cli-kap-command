@@ -5,15 +5,15 @@ in the kapeta CLI
 
 #### Example use:
 ```javascript
-const KapetaCommand = require('@kapeta/blockctl-command');
+const KapetaCommand = require('@kapeta/kap-command');
 const packageData = require('./package');
 
 // Create the subsection command object.
-// This is made available through "blockctl mysubsection"
+// This is made available through "kap mysubsection"
 const command = new KapetaCommand('mysubsection', packageData.version);
 
 // Add handler for sub command - See commander docs for more
-// $: blockctl subsection subcommand
+// $: kap subsection subcommand
 command.program()
     .command('subcommand')  
     .action(() => doSomething());
