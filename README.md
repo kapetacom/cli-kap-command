@@ -21,3 +21,7 @@ command.program()
 //Tell the kapeta command to parse arguments and run actions
 command.start();
 ``` 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details

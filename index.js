@@ -1,3 +1,8 @@
+/**
+ * Copyright 2023 Kapeta Inc.
+ * SPDX-License-Identifier: MIT
+ */
+
 const {Command} = require('commander');
 const PARENT_NAME = process.env.KAPETA_PARENT_CLI || 'kap';
 
